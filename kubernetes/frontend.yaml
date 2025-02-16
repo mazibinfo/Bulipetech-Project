@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: mazib/bulipetech-frontend:v2.2
+          image: mazib/bulipetech-frontend:1
           ports:
             - containerPort: 5173
           resources:
